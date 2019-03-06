@@ -636,4 +636,511 @@ Artist name: Backstreet Boys
 Song name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/449a343d702748f5a7f0f1276119fbb173340343?cid=38392665af404913b555e3bb3ce6a045
 Album name: NOW That's What I Call Music! 20th Anniversary, Vol. 2
-[object Object]
+[object Object][object Object][object Object][object Object][object Object][object Object][object Object]-----------------------------------------------------------------------------------
+Venue name: The Sound Archive
+Venue city: Kirkwall
+Date time: 2019-03-17T16:00:00-----------------------------------------------------------------------------------
+Venue name: The Sound Archive
+Venue city: Kirkwall
+Date time: 2019-03-17T16:00:00-----------------------------------------------------------------------------------
+Venue name: The Sound Archive
+Venue city: Kirkwall
+Date time: 2019-03-17T16:00:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Sioux Falls, SD
+Venue city: Sioux Falls
+Date time: 2019-03-06T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Omaha, NE
+Venue city: Omaha
+Date time: 2019-03-07T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Grand Rapids, MI
+Venue city: Grand Rapids
+Date time: 2019-03-09T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Moline, IL
+Venue city: Moline
+Date time: 2019-03-10T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Louisville, KY
+Venue city: Louisville
+Date time: 2019-03-12T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Detroit, MI
+Venue city: Detroit
+Date time: 2019-03-13T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Columbus, OH
+Venue city: Columbus
+Date time: 2019-03-16T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Cleveland, OH
+Venue city: Cleveland
+Date time: 2019-03-17T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Montreal, Canada
+Venue city: Montreal
+Date time: 2019-03-19T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Toronto, Canada
+Venue city: Toronto
+Date time: 2019-03-20T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Uniondale, NY
+Venue city: Uniondale
+Date time: 2019-03-22T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Uncasville, CT
+Venue city: Uncasville
+Date time: 2019-03-23T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Boston, MA
+Venue city: Boston
+Date time: 2019-03-26T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - New York, NY
+Venue city: New York
+Date time: 2019-03-27T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Philadelphia, PA
+Venue city: Philadelphia
+Date time: 2019-03-29T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Pittsburgh, PA
+Venue city: Pittsburgh
+Date time: 2019-03-30T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Quebec, Canada
+Venue city: Quebec
+Date time: 2019-04-02T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Ottawa, Canada
+Venue city: Ottawa
+Date time: 2019-04-03T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Raleigh, NC
+Venue city: Raleigh
+Date time: 2019-04-06T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Atlanta, GA
+Venue city: Atlanta
+Date time: 2019-04-07T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Nashville, TN
+Venue city: Nashville
+Date time: 2019-04-09T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Tampa, FL
+Venue city: Tampa
+Date time: 2019-04-11T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Jacksonville, FL
+Venue city: Jacksonville
+Date time: 2019-04-12T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Birmingham, AL
+Venue city: Birmingham
+Date time: 2019-04-13T19:30:00-----------------------------------------------------------------------------------
+Venue name: Domination Festival
+Venue city: Mexico City
+Date time: 2019-05-03T19:00:57-----------------------------------------------------------------------------------
+Venue name: Domination Festival
+Venue city: Mexico City
+Date time: 2019-05-04T19:00:36-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Leipzig, Germany
+Venue city: Leipzig
+Date time: 2019-05-27T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Vienna, Austria
+Venue city: Vienna
+Date time: 2019-05-29T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Munich, Germany
+Venue city: Munich
+Date time: 2019-05-31T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Essen, Germany
+Venue city: Essen
+Date time: 2019-06-02T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Berlin, Germany
+Venue city: Berlin
+Date time: 2019-06-04T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Hannover, Germany
+Venue city: Hannover
+Date time: 2019-06-05T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Solvesborg, Sweden
+Venue city: Solvesborg
+Date time: 2019-06-07T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Helsinki
+Venue city: Helsinki
+Date time: 2019-06-09T19:00:55-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - St. Peterspurg, Russia
+Venue city: St. Petersburg
+Date time: 2019-06-11T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Moscow, Russia
+Venue city: Moscow
+Date time: 2019-06-13T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Kiev, Ukraine
+Venue city: Kiev
+Date time: 2019-06-16T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Krakow, Poland
+Venue city: Krakow
+Date time: 2019-06-18T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Amsterdam, Netherlands
+Venue city: Amsterdam
+Date time: 2019-06-25T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Oslo, Norway
+Venue city: Oslo
+Date time: 2019-06-27T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Trondehim, Norway
+Venue city: Trondehim
+Date time: 2019-06-28T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Milan, Italy
+Venue city: Milan
+Date time: 2019-07-02T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Zurich, Switzerland
+Venue city: Zurich
+Date time: 2019-07-04T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Iffezheim, Germany
+Venue city: Iffezheim
+Date time: 2019-07-06T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Birmingham, England
+Venue city: Birmingham
+Date time: 2019-07-09T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - London, England
+Venue city: Lodon
+Date time: 2019-07-11T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Manchester, England
+Venue city: Manchester
+Date time: 2019-07-12T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Newcastle, England
+Venue city: Newcastle
+Date time: 2019-07-14T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Glasgow, Scotland
+Venue city: Glasgow
+Date time: 2019-07-16T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Charleston, SC
+Venue city: Charleston
+Date time: 2019-08-08T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Charlotte, NC
+Venue city: Charlotte
+Date time: 2019-08-10T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Bristow, VA
+Venue city: Bristow
+Date time: 2019-08-11T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Sunrise, FL
+Venue city: Sunrise
+Date time: 2019-08-06T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Virginia Beach, VA
+Venue city: Virginia Beach
+Date time: 2019-08-13T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Newark, NJ
+Venue city: Newark
+Date time: 2019-08-14T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Montreal, QC
+Venue city: Montreal
+Date time: 2019-08-16T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Toronto, ON
+Venue city: Toronto
+Date time: 2019-08-17T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Brooklyn, NY
+Venue city: Brooklyn
+Date time: 2019-08-20T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Hershey, PA
+Venue city: Hershey
+Date time: 2019-08-21T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Darien Center, NY
+Venue city: Darien Center
+Date time: 2019-08-23T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Saratoga Springs, NY
+Venue city: Saratoga Springs
+Date time: 2019-08-24T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Syracuse, NY
+Venue city: Syracuse
+Date time: 2019-08-27T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Cincinnati, OH
+Venue city: Cincinnati
+Date time: 2019-08-29T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Indianapolis, IN
+Venue city: Indianapolis
+Date time: 2019-08-31T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - St. Louis, MO
+Venue city: St. Louis
+Date time: 2019-09-01T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Des Moines, IA
+Venue city: Des Moines
+Date time: 2019-09-03T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Little Rock, AR
+Venue city: Little Rock
+Date time: 2019-09-05T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Bossier City, LA
+Venue city: Bossier City
+Date time: 2019-09-07T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - San Antonio, TX
+Venue city: San Antonio
+Date time: 2019-09-08T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Houston, TX
+Venue city: Houston
+Date time: 2019-09-09T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Albuquerque, NM
+Venue city: Albuquerque
+Date time: 2019-09-11T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Denver, CO
+Venue city: Denver
+Date time: 2019-09-12T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Salt Lake City, UT
+Venue city: Salt Lake City
+Date time: 2019-09-14T19:30:00-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Oakland, CA
+Venue city: Oakland
+Date time: 2019-09-16T19:30:00-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Perth, Australia
+Venue city: Perth
+Date time: 2019-11-16T19:00:43-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Adelaide, Australia
+Venue city: Adelaide
+Date time: 2019-11-19T19:15:59-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue city: Melbourne
+Date time: 2019-11-21T19:15:14-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue city: Melbourne
+Date time: 2019-11-22T19:15:21-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Newcastle, Australia
+Venue city: Newcastle
+Date time: 2019-11-23T19:15:22-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Sydney, Australia
+Venue city: Sydney Olympic Park
+Date time: 2019-11-26T19:15:10-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Brisbane, Australia
+Venue city: Brisbane
+Date time: 2019-11-28T19:15:32-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Auckland, New Zealand
+Venue city: Auckland
+Date time: 2019-12-03T19:15:25-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Sioux Falls, SD
+Venue city: Sioux Falls
+Date time: 03/06/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Omaha, NE
+Venue city: Omaha
+Date time: 03/07/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Grand Rapids, MI
+Venue city: Grand Rapids
+Date time: 03/09/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Moline, IL
+Venue city: Moline
+Date time: 03/10/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Louisville, KY
+Venue city: Louisville
+Date time: 03/12/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Detroit, MI
+Venue city: Detroit
+Date time: 03/13/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Columbus, OH
+Venue city: Columbus
+Date time: 03/16/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Cleveland, OH
+Venue city: Cleveland
+Date time: 03/17/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Montreal, Canada
+Venue city: Montreal
+Date time: 03/19/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Toronto, Canada
+Venue city: Toronto
+Date time: 03/20/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Uniondale, NY
+Venue city: Uniondale
+Date time: 03/22/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Uncasville, CT
+Venue city: Uncasville
+Date time: 03/23/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Boston, MA
+Venue city: Boston
+Date time: 03/26/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - New York, NY
+Venue city: New York
+Date time: 03/27/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Philadelphia, PA
+Venue city: Philadelphia
+Date time: 03/29/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Pittsburgh, PA
+Venue city: Pittsburgh
+Date time: 03/30/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Quebec, Canada
+Venue city: Quebec
+Date time: 04/02/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Ottawa, Canada
+Venue city: Ottawa
+Date time: 04/03/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Raleigh, NC
+Venue city: Raleigh
+Date time: 04/06/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Atlanta, GA
+Venue city: Atlanta
+Date time: 04/07/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Nashville, TN
+Venue city: Nashville
+Date time: 04/09/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Tampa, FL
+Venue city: Tampa
+Date time: 04/11/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Jacksonville, FL
+Venue city: Jacksonville
+Date time: 04/12/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Birmingham, AL
+Venue city: Birmingham
+Date time: 04/13/2019-----------------------------------------------------------------------------------
+Venue name: Domination Festival
+Venue city: Mexico City
+Date time: 05/03/2019-----------------------------------------------------------------------------------
+Venue name: Domination Festival
+Venue city: Mexico City
+Date time: 05/04/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Leipzig, Germany
+Venue city: Leipzig
+Date time: 05/27/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Vienna, Austria
+Venue city: Vienna
+Date time: 05/29/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Munich, Germany
+Venue city: Munich
+Date time: 05/31/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Essen, Germany
+Venue city: Essen
+Date time: 06/02/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Berlin, Germany
+Venue city: Berlin
+Date time: 06/04/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Hannover, Germany
+Venue city: Hannover
+Date time: 06/05/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Solvesborg, Sweden
+Venue city: Solvesborg
+Date time: 06/07/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Helsinki
+Venue city: Helsinki
+Date time: 06/09/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - St. Peterspurg, Russia
+Venue city: St. Petersburg
+Date time: 06/11/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Moscow, Russia
+Venue city: Moscow
+Date time: 06/13/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Kiev, Ukraine
+Venue city: Kiev
+Date time: 06/16/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Krakow, Poland
+Venue city: Krakow
+Date time: 06/18/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Amsterdam, Netherlands
+Venue city: Amsterdam
+Date time: 06/25/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Oslo, Norway
+Venue city: Oslo
+Date time: 06/27/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Trondehim, Norway
+Venue city: Trondehim
+Date time: 06/28/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Milan, Italy
+Venue city: Milan
+Date time: 07/02/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Zurich, Switzerland
+Venue city: Zurich
+Date time: 07/04/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Iffezheim, Germany
+Venue city: Iffezheim
+Date time: 07/06/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Birmingham, England
+Venue city: Birmingham
+Date time: 07/09/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - London, England
+Venue city: Lodon
+Date time: 07/11/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Manchester, England
+Venue city: Manchester
+Date time: 07/12/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Newcastle, England
+Venue city: Newcastle
+Date time: 07/14/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Glasgow, Scotland
+Venue city: Glasgow
+Date time: 07/16/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Sunrise, FL
+Venue city: Sunrise
+Date time: 08/06/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Charleston, SC
+Venue city: Charleston
+Date time: 08/08/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Charlotte, NC
+Venue city: Charlotte
+Date time: 08/10/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Bristow, VA
+Venue city: Bristow
+Date time: 08/11/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Virginia Beach, VA
+Venue city: Virginia Beach
+Date time: 08/13/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Newark, NJ
+Venue city: Newark
+Date time: 08/14/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Montreal, QC
+Venue city: Montreal
+Date time: 08/16/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Toronto, ON
+Venue city: Toronto
+Date time: 08/17/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Brooklyn, NY
+Venue city: Brooklyn
+Date time: 08/20/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Hershey, PA
+Venue city: Hershey
+Date time: 08/21/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Darien Center, NY
+Venue city: Darien Center
+Date time: 08/23/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Saratoga Springs, NY
+Venue city: Saratoga Springs
+Date time: 08/24/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Syracuse, NY
+Venue city: Syracuse
+Date time: 08/27/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Cincinnati, OH
+Venue city: Cincinnati
+Date time: 08/29/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Indianapolis, IN
+Venue city: Indianapolis
+Date time: 08/31/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - St. Louis, MO
+Venue city: St. Louis
+Date time: 09/01/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Des Moines, IA
+Venue city: Des Moines
+Date time: 09/03/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Little Rock, AR
+Venue city: Little Rock
+Date time: 09/05/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Bossier City, LA
+Venue city: Bossier City
+Date time: 09/07/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - San Antonio, TX
+Venue city: San Antonio
+Date time: 09/08/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Houston, TX
+Venue city: Houston
+Date time: 09/09/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Albuquerque, NM
+Venue city: Albuquerque
+Date time: 09/11/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Denver, CO
+Venue city: Denver
+Date time: 09/12/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Oakland, CA
+Venue city: Oakland
+Date time: 09/16/2019-----------------------------------------------------------------------------------
+Venue name: End Of The Road World Tour - Salt Lake City, UT
+Venue city: Salt Lake City
+Date time: 09/14/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Perth, Australia
+Venue city: Perth
+Date time: 11/16/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Adelaide, Australia
+Venue city: Adelaide
+Date time: 11/19/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue city: Melbourne
+Date time: 11/21/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue city: Melbourne
+Date time: 11/22/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Newcastle, Australia
+Venue city: Newcastle
+Date time: 11/23/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Sydney, Australia
+Venue city: Sydney Olympic Park
+Date time: 11/26/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Brisbane, Australia
+Venue city: Brisbane
+Date time: 11/28/2019-----------------------------------------------------------------------------------
+Venue name: End of the Road World Tour - Auckland, New Zealand
+Venue city: Auckland
+Date time: 12/03/2019-----------------------------------------------------------------------------------
+Venue name: The Sound Archive
+Venue city: Kirkwall
+Date time: 03/17/2019-----------------------------------------------------------------------------------
+Venue name: The Sound Archive
+Venue city: Kirkwall
+Date: 03/17/2019 16:00

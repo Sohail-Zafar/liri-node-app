@@ -5,8 +5,12 @@
 // This program uses Node.js. It takes command line arguments to search the web for information and returns data.
 
 
-// Load required files and set up global varibles
+// Load required files for node modules and set up global varibles.
 require("dotenv").config();
+
+var moment = require('moment');
+moment().format();
+
 var keys = require("./keys.js");
 
 var axios = require('axios');
@@ -112,10 +116,19 @@ axios
   "https://rest.bandsintown.com/artists/" + bandName + "/events?app_id=codingbootcamp" )
   .then(function(response){ 
     console.log("bandsInTown: " + bandName);
-    dataResults = response.data;
-    console.log(response.data);
-    logFile();
-  });
+    for ( var i =0; i < response.data.length; i++){
+      var dateTime = response.data[i].datetime;
+      momentDate = moment(dateTime).format("MM/DD/YYYY HH:mm");
+    
+      dataResults = 
+      "-----------------------------------------------------------------------------------\n" +
+      "Venue name: " + response.data[i].venue.name + "\n" +
+      "Venue city: " + response.data[i].venue.city + "\n" +
+      "Date: " + momentDate;
+      console.log(dataResults);
+      logFile();
+    }
+ });
 }
 
 // Function Do what it Says. Reads random.txt file and executs command arguments.
